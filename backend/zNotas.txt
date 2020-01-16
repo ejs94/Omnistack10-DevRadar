@@ -1,0 +1,11 @@
+//Metodos HTTP: GET, POST, PUT, DELETE
+
+// Tipos de parâmetros do express:
+// Query Params: request.query (Filtros, Ordenação, Paginação, ...)
+// Route Params: request.params(Identificar um recurso na alteração ou remoção)
+// Body: request.body(Dados para criação ou alteração de um registro)
+
+// MongoDB (Não-Relacional)
+
+// Dentro do DevController
+// index: "Mostrar uma lista", show: "Mostrar um unico dev", store: "Guardar um dev", update: "Atualizar informações", destroy: "Deletar informações"
