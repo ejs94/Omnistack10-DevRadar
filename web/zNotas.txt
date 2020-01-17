@@ -1,0 +1,4 @@
+//React trabalha com esses três conceitos
+//Componente: um bloco isolado de HTML, CSS e JS, o qual não altera o restante da aplicação
+//Propriedade: Informações que um componente PAI passa para o componente FILHO
+//Estado: Informação mantida pelo componente (Lembrar: Imutabilidade)
